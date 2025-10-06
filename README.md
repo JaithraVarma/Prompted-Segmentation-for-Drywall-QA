@@ -110,7 +110,7 @@ Below are sample qualitative results showing model performance for both tasks:
 
 ---
 
-### **Report Summary (for submission)**
+### **Report Summary**
 
 | Category               | Description                                                                           |
 | ---------------------- | ------------------------------------------------------------------------------------- |
